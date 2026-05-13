@@ -18,7 +18,7 @@ function findMissingNumber(nums) {
 
     let n = nums.length;
 
-    // expected sum
+    // expected sum.
     let expected = (n * (n + 1)) / 2;
 
     // actual sum
